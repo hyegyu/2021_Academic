@@ -6,6 +6,6 @@
 - 역할 : 데이터전처리, 시각화, 분석
 - 사용 툴 : Python / Jupyter
 - 사용 라이브러리 및 알고리즘 
-  2. 분석 : sklearn(KNeighborsClassifier)
+  1. 분석 : sklearn(KNeighborsClassifier)
 
 - 결과 : 대상
