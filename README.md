@@ -9,3 +9,4 @@
   1. 분석 : sklearn(KNeighborsClassifier)
 
 - 결과 : 대상
+- 최종 PPT: 2021_Academic/2021_학술제_데이터분석경진대회.pdfhttps://github.com/hyegyu/2021_Academic/blob/main/2021_%ED%95%99%EC%88%A0%EC%A0%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf
